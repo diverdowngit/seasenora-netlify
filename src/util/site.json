@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "SV Sea Senora",
+    "title": "Foundation",
     "titleTemplate": "%s",
-    "description": "WebPage for SV Sea Senora. Sailing,Travel,YouTube And Blog Site.A Must To Check Out.",
+    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/favicon.png",
-    "iconimage": "/assets/favicon.png",
+    "image": "/assets/stackrole.png",
+    "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
